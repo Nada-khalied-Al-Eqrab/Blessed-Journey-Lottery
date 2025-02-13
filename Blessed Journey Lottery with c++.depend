@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1739212044 source:d:\projects\blessed journey lottery with c++\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<map>
+	<vector>
+	<algorithm>
+
